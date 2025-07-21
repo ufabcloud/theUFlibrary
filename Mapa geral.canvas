@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"6c5166cf414ff9f3","type":"text","text":"Início\n\n- Guia\n- Pasta dos cursos","x":-334,"y":-242,"width":250,"height":142,"color":"5"},
+		{"id":"1938c20f1cdf62c1","type":"text","text":"Pasta dos cursos\n\n- Quadrimestres","x":-140,"y":-20,"width":250,"height":133,"color":"4"},
+		{"id":"ffb28f4d9b835ae2","type":"text","text":"Quadrimestres\n\n- Matérias","x":80,"y":180,"width":285,"height":140,"color":"2"}
+	],
+	"edges":[
+		{"id":"8249fd371b12c316","fromNode":"6c5166cf414ff9f3","fromSide":"bottom","toNode":"1938c20f1cdf62c1","toSide":"left","color":"1"},
+		{"id":"c0869ade343eec42","fromNode":"1938c20f1cdf62c1","fromSide":"bottom","toNode":"ffb28f4d9b835ae2","toSide":"left","color":"1"}
+	]
+}
